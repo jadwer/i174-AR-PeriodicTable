@@ -1,0 +1,1 @@
+Uso de marcadores de código de barras para presentar información en Realidad Aumentada.
